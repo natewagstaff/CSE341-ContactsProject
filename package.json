@@ -1,0 +1,20 @@
+{
+  "name": "contactsproject",
+  "version": "1.0.0",
+  "description": "My First Project",
+  "homepage": "https://github.com/natewagstaff/CSE341-ContactsProject#readme",
+  "bugs": {
+    "url": "https://github.com/natewagstaff/CSE341-ContactsProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natewagstaff/CSE341-ContactsProject.git"
+  },
+  "license": "ISC",
+  "author": "Nathan Wagstaff",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
