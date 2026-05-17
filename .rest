@@ -1,3 +1,0 @@
-GET https://cse341-contactsproject-v19i.onrender.com/contacts
-
-GET https://cse341-contactsproject-v19i.onrender.com/contacts/6a08e6d2b066e726fa3fe7c9
